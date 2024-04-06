@@ -13,10 +13,10 @@
     "chart.js": "^3.9.1",
     "chartjs-adapter-date-fns": "^3.0.0",
     "firebase": "^10.9.0",
-    "react": "^18.2.0", 
+    "react": "^18.2.0",
     "react-alice-carousel": "^2.8.0",
     "react-chartjs-2": "^5.2.0",
-    "react-dom": "^18.2.0", 
+    "react-dom": "^18.2.0",
     "react-google-button": "^0.7.2",
     "react-html-parser": "^2.0.2",
     "react-icons": "^5.0.1",
@@ -31,7 +31,6 @@
     "eject": "react-scripts eject",
     "install": "npm install --legacy-peer-deps"
   },
-  
   "eslintConfig": {
     "extends": [
       "react-app",
